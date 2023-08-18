@@ -32,7 +32,7 @@ elif per >= 50 and per < 60:
     print("You have passed with too less marks ")
 else:
     print("Go home and read, You're a Failure!!")
-    print("outside if")
+   
 
 
 
