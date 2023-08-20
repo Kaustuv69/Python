@@ -13,6 +13,11 @@ print("English :", e)
 print("Nepali :", f)
 print("Social :", g)
 s = x + b + c + d + e + f + g
+if s<=700:
+    pass
+else:
+    print"Reenter the marks properly each subject contains 100 marks"
+    break
 ts = 700
 print("Obtained marks:", s)
 print("Total marks :", 700)
