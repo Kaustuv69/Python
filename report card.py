@@ -8,7 +8,7 @@ while True:
     g = int(input("Enter marks of social"))
     s = x + b + c + d + e + f + g
     if s>700:
-        print("Reenter the values under 100")
+        print("Reenter the values under 100;Full marks is 100")
         continue
     print("Computer :", x)
     print("Science :", b)
