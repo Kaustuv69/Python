@@ -16,7 +16,7 @@ s = x + b + c + d + e + f + g
 if s<=700:
     break
 else:
-    print"Reenter the marks properly each subject contains 100 marks"
+    print("Reenter the marks properly each subject contains 100 marks")
 ts = 700
 print("Obtained marks:", s)
 print("Total marks :", 700)
