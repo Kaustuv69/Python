@@ -1,0 +1,9 @@
+def word_counter():
+    while True:
+        a=input('enter a sentence')
+        y=1
+        for i in range(len(a)):
+            if a[i] ==" ":
+                y=y+1
+        print("The number of words are:",y)
+word_counter()
