@@ -1,6 +1,7 @@
 
-#let say you are a teacher and you have different students records containig id of the  student and number of subject they have taken and marks of each subject . You want to enter all the data in computer and want to compute the average of each student.
-#using dictionaries:
+#let say you are a teacher and you have different students records containig id of the 
+#student and number of subject they have taken and marks of each subject .
+#You want to enter all the data in computer and want to compute the average of each student.
 d={}
 while True:
     d[id]=int(input("enter id"))
